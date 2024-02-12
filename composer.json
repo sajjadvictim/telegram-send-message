@@ -1,0 +1,6 @@
+{
+    "name": "your-vendor/your-project",
+    "require": {
+        "telegram-bot/api": "^3.6"
+    }
+}
